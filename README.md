@@ -9,7 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-mauricio-rojas-barrera-85384919a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="rojasbarreragabriel@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/ios-filled/50/F25081/new-post.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
